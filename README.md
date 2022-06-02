@@ -1,4 +1,5 @@
 Hi, I'm Calvin Pang and currently working as a Data Scientist.
+
 I'm particularly interested in deep learning and have successfully trained CNNs and Transformer models for production.
 Currently, I'm learning about FastAI and HuggingFace as transfer learning cuts down a lot of the development time.
 I'm also learning Django so I can deploy ML models for end users.
